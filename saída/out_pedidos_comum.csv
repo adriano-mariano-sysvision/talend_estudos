@@ -1,0 +1,3 @@
+id_pedidos;id_cliente;nome_cliente;produto;categoria;quantidade;valor_unitario;valor_total;data_pedido;status;status_tratado;cidade;estado
+1003;C003;Carlos Silva;Teclado;Perifericos;3;120.00;360.00;2026-03-18;Aprovado;Pedido Válido;Sao Carlos;SP
+1005;C004;Fernanda Souza;Headset;Acessorios;2;250.00;500.00;2026-03-18;Aprovado;Pedido Válido;Ribeirao Preto;SP

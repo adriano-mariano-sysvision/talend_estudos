@@ -1,0 +1,2 @@
+id_pedidos;id_cliente;nome_cliente;produto;categoria;quantidade;valor_unitario;valor_total;data_pedido;status;status_tratado;cidade;estado
+1001;C001;Adriano Mariano;Notebook;Eletronicos;2;3500.00;7000.00;2026-03-18;Aprovado;Pedido Válido;Araraquara;SP
