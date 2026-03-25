@@ -1,0 +1,7 @@
+id_pedido;id_cliente;produto;categoria;quantidade;valor_unitario;data_pedido;status
+1001;C001;Notebook;Eletronicos;2;3500.00;2026-03-18;Aprovado
+1002;C002;Mouse;Perifericos;1;80.00;2026-03-18;Cancelado
+1003;C003;Teclado;Perifericos;3;120.00;2026-03-18;Aprovado
+1004;C001;Monitor;Eletronicos;1;900.00;2026-03-18;Pendente
+1005;C004;Headset;Acessorios;2;250.00;2026-03-18;Aprovado
+1005;C004;Headset;Acessorios;2;250.00;2026-03-18;Aprovado
